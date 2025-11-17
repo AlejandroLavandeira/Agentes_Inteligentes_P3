@@ -63,6 +63,7 @@
     ; -- Batería inicial y coste de empuje
     (= (battery-level kenny) 100)
     (= (push_cost) 20)
+    (= (turn_cost) 1)
 
     ; -- Costes de movimiento (Verticales=10, Horizontales=5)
     ; Costes Verticales (más caros)
