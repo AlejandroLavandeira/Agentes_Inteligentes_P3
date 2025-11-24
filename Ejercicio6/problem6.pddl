@@ -24,7 +24,7 @@
     (box_at box1 wp11)
 
     ; -- Celdas Vacías (OJO: wp00, wp03 y wp11 están ocupadas)
-    (is_empty wp01) (is_empty wp02)
+                    (is_empty wp01) (is_empty wp02)
     (is_empty wp10)                 (is_empty wp12) (is_empty wp13)
     (is_empty wp20) (is_empty wp21) (is_empty wp22) (is_empty wp23)
     (is_empty wp30) (is_empty wp31) (is_empty wp32) (is_empty wp33)
