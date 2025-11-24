@@ -14,5 +14,6 @@ Terminal 3:
 cd ~/catkin_ws/src/ai_rosplan/ai_planning/scripts
 ./updateKB.bash
 
+Se va a quedar girando hasta que acaba de girar ahí da error y solo hay que volver a lanzar el plan
 Cuando falle otra vez en Terminal 2:
 rosrun ai_planning robot_plan.bash
